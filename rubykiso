@@ -1,0 +1,2 @@
+user={"name">="田中","age">=24}
+puts user["name"]
